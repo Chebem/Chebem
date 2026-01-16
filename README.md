@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate  at Semyung University**
 
-- 💻 **Major Artfical Intelligence Software**
+- 💻 **Artfical Intelligence Software Major**
 - 🛠️ **Full-Stack Developer** 
 - 🧩  Currently Exploring Python, LangChain, and LLM systems and Agentic RAG Pipelines
 - 📱 Slight interest in Mobile App Development  
