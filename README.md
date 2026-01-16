@@ -11,9 +11,9 @@
  I enjoy learning new tech stacks, low-key love cooking, staying active outdoors, and ending weekends with K-dramas and a bowl of popcorn 🍿😄
  
 🤝 Open to collaboration  
-- 📫 How to reach me: [ chebemyvette18@gmail.com]
 
 ## 📫 Connect with Me
+-  How to reach me: [ chebemyvette18@gmail.com]
 - [LinkedIn](https://ng.linkedin.com/in/chebem-chukwuka-6a2a0313a)
   
 
