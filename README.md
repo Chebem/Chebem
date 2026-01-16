@@ -1,6 +1,6 @@
 ## 안녕하세요/ Hi 🙋🏼‍♀️, I'm Chebem Yvette!
 
-🎓 **Artificial Intelligence Software Graduate (Computer Science Track) at Semyung University**
+🎓 **Computer Science Graduate  at Semyung University**
 
 - 💻 **AI Software Graduate** 
 - 🛠️ **Full-Stack Developer** 
