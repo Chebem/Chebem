@@ -2,10 +2,10 @@
 
 🎓 **Artificial Intelligence Software Graduate (Computer Science Track) at Semyung University**
 
-💻 **AI Software Graduate :** 
-🛠️ ** Full-Stack Developer:** 
-🧩  Currently Exploring Python, LangChain, and LLM systems and Agentic RAG Pipelines
-📱 Slight interest in Mobile App Development  
+- 💻 **AI Software Graduate :** 
+- 🛠️ ** Full-Stack Developer:** 
+- 🧩  Currently Exploring Python, LangChain, and LLM systems and Agentic RAG Pipelines
+- 📱 Slight interest in Mobile App Development  
 
 ## 🌐 About Me
  I enjoy learning new tech stacks, low-key love cooking, staying active outdoors, and ending weekends with K-dramas and a bowl of popcorn 🍿😄
