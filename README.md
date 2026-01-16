@@ -1,24 +1,17 @@
-# 👋 Hi, I'm Chebem Yvette!
+# 안녕하세요/ Hi 🙋🏼‍♀️, I'm Chebem Yvette!
 
-🎓 **Computer Software Major at Semyung University**
+🎓 ** Artificial Intelligence Software Graduate (Computer Science Track) at Semyung University**
 
-💻 **Frontend Developer:** Crafting sleek, responsive web experiences  
-🛠️ **Backend Enthusiast:** Exploring databases and MySQL
+💻 **AI Software Graduate :** 
+🛠️ ** Full-Stack Developer:** 
+🧩  Currently Exploring Python, LangChain, and LLM systems and Agentic RAG Pipelines
+📱 Slight interest in Mobile App Development  
 
 ## 🌐 About Me
-Creatively building beautiful, functional websites that provide a great user experience. From responsive layouts to interactive features, the aim is to bring designs to life with clean, efficient code while enjoyig the journey
-
-- 🌱 I’m learning more about **React** and **Node.js**
-- 💬 Ask me about **Frontend Development**, **MySQL**, or **Web Design**
-- 📫 How to reach me: [ yvettechebem9@gmail.com]
-
-## 🚀 My Skills
-- **Languages:** HTML, CSS, JavaScript, SQL
-- **Frameworks/Libraries:** React, Bootstrap, GSAP
-- **Tools:** Git, VS Code, Figma
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bembem&show_icons=true&theme=radical)
+ I enjoy learning new tech stacks, low-key love cooking, staying active outdoors, and ending weekends with K-dramas and a bowl of popcorn 🍿😄
+ 
+🤝 Open to collaboration  
+- 📫 How to reach me: [ chebemyvette18@gmail.com]
 
 ## 📫 Connect with Me
 - [LinkedIn](https://ng.linkedin.com/in/chebem-chukwuka-6a2a0313a)
