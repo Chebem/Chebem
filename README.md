@@ -1,19 +1,34 @@
-## 안녕하세요/ Hi 🙋🏼‍♀️, I'm Chebem Yvette!
+## 👋 Hello / 안녕하세요, I'm Chebem Yvette
 
-🎓 **Computer Science Graduate  at Semyung University**
+**Computer Science Graduate at Semyung University**
 
-- 💻 **Artfical Intelligence Software Major**
-- 🛠️ **Full-Stack Developer** 
-- 🧩  Currently Exploring Python, LangChain, and LLM systems and Agentic RAG Pipelines
-- 📱 Slight interest in Mobile App Development  
+- Artificial Intelligence Software Major  
+- Full-Stack Developer  
+- Currently exploring Python, LangChain, LLM systems, and Agentic RAG pipelines  
+- Slight interest in Mobile App Development  
 
-## 🌐 About Me
- I enjoy learning new tech stacks, low-key love cooking and baking, staying active outdoors, finally ending my weekends with list of starred K-dramas and a bowl of popcorn 🍿😄
- 
-🤝 Open to collaboration  
+---
+
+## 🌿 About Me
+
+<details>
+<summary>Click to expand</summary>
+
+I enjoy learning new tech stacks, love cooking and baking, staying active outdoors, and ending my weekends with a list of starred K-dramas and a bowl of popcorn.
+
+I value consistency, growth, and building technology that solves real problems.
+
+Always open to collaboration and meaningful projects.
+
+</details>
+
+---
 
 ## 📫 Connect with Me
--  How to reach me: [ chebemyvette18@gmail.com]
-- [LinkedIn](https://ng.linkedin.com/in/chebem-chukwuka-6a2a0313a)
-  
 
+- Email: **chebemyvette18@gmail.com**  
+- LinkedIn: [Chebem Yvette](https://ng.linkedin.com/in/chebem-chukwuka-6a2a0313a)
+
+---
+
+*Building intelligent systems with curiosity, discipline, and purpose.*
