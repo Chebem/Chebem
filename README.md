@@ -8,7 +8,7 @@
 - 📱 Slight interest in Mobile App Development  
 
 ## 🌐 About Me
- I enjoy learning new tech stacks, low-key love cooking, staying active outdoors, finally ending weekends with K-dramas and a bowl of popcorn 🍿😄
+ I enjoy learning new tech stacks, low-key love cooking, staying active outdoors, finally ending weekends with list of starred K-dramas and a bowl of popcorn 🍿😄
  
 🤝 Open to collaboration  
 
