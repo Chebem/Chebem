@@ -14,7 +14,7 @@
 <details>
 <summary>Click to expand</summary>
 
-I enjoy learning new tech stacks, love cooking and baking, staying active outdoors, and ending my weekends with a list of starred K-dramas and a bowl of popcorn.
+I enjoy learning new tech stacks, love cooking and baking, outdoors activites, and ending my weekends with a list of starred K-dramas and a bowl of popcorn.
 
 I value consistency, growth, and building technology that solves real problems.
 
