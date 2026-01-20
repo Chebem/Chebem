@@ -5,7 +5,7 @@
 - Artificial Intelligence Software Major  
 - Full-Stack Developer  
 - Currently exploring Python, LangChain, LLM systems, and Agentic RAG pipelines  
-- Slight interest in Mobile App Development  
+- Interest in Mobile App Development  
 
 ---
 
