@@ -32,4 +32,5 @@ Always open to collaboration and meaningful projects.
 ---
 
 *Building intelligent systems with curiosity, discipline, and purpose.*
+---
 *You can read about that here:*[Research Paper](https://link.springer.com/chapter/10.1007/978-981-95-3141-7_19)
