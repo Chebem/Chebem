@@ -1,4 +1,4 @@
-## 🙋🏽‍♀️Hello / 안녕하세요, I'm Chebem Yvette
+## Hello / 안녕하세요, I'm Chebem Yvette
 
 **👩🏽‍🎓Computer Science Graduate at Semyung University**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌿 About Me
+##  About Me
 
 <details>
 <summary>Click to expand</summary>
