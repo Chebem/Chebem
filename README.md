@@ -26,10 +26,6 @@ Always open to collaboration and meaningful projects.
 
 ## 📫 Connect with Me
 
-- Email: **chebemyvette18@gmail.com**  
-- LinkedIn: [Chebem Yvette](https://ng.linkedin.com/in/chebem-chukwuka-6a2a0313a)
-
----
 
 *Building intelligent systems with curiosity, discipline, and purpose.*
 
