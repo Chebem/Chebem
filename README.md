@@ -25,6 +25,7 @@ Always open to collaboration and meaningful projects.
 ---
 
 ## 📫 Connect with Me
+- LinkedIn [www.linkedin.com/in/chebemyvette]
 
 
 *Building intelligent systems with curiosity, discipline, and purpose.*
