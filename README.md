@@ -1,6 +1,6 @@
 ## Hello / 안녕하세요, I'm Chebem Yvette
 
-**👩🏽‍🎓Computer Science Graduate at Semyung University**
+**👩🏽‍🎓Computer Science Graduate at Living in South Korea**
 
 - Artificial Intelligence Software Major  
 - Full-Stack Developer  
