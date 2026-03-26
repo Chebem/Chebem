@@ -1,6 +1,6 @@
 ## Hello / 안녕하세요, I'm Chebem Yvette
 
-**👩🏽‍🎓Computer Science Graduate  Living in South Korea**
+**👩🏽‍🎓Computer Science Graduate  iving in South Korea**
 
 - Artificial Intelligence Software Major  
 - Full-Stack Developer  
