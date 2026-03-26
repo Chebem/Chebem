@@ -24,7 +24,6 @@ Always open to collaboration and meaningful projects.
 
 ---
 
-[![Chebem's Github Stats](https://github-readme-stats.vercel.app/api?username=Chebem)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 * Linkedin:[Profile](www.linkedin.com/in/chebemyvette)
